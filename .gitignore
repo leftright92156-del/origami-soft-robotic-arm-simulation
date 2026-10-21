@@ -1,0 +1,20 @@
+# MATLAB editor and autosave files
+*.asv
+*.m~
+*.mlx.autosave
+
+# MATLAB generated figures and data (uncomment if these should be versioned)
+# *.fig
+# *.mat
+# *.xlsx
+# *.csv
+
+# Exported figures and generated results
+exports/
+results/
+output/
+
+# OS/editor metadata
+.DS_Store
+Thumbs.db
+.vscode/
